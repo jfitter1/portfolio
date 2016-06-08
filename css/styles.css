@@ -1,0 +1,59 @@
+/********************
+IMPORTS
+*******************/
+
+@import url('reset.css');
+@import url('accessibility.css');
+@import url('card-styles.css');
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 5em;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+/********************
+YOUR STYLES
+*******************/
+article {
+    
+    
+    background-color: aqua;
+}
+h2 {
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    
+    font-family: 'Roboto', sans-serif;
+    
+}
+p{
+    color: white;
+    font-size: 3em;
+    font-weight: thin;
+  font-family: 'Roboto', sans-serif;  
+    
+}
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 75em) {
+
+}
+
+/* Tablet */
+@media (min-width: 48em) {
+
+}
+
+/* Mobile */
+@media (min-width: 30em) {
+
+}
+
